@@ -1,2 +1,3 @@
 theme: jekyll-theme-cayman
-site_url: https://kitfbgh.github.io/MyWeb
+url: https://kitfbgh.github.io/MyWeb
+root: /MyWeb/
